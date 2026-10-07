@@ -1,3 +1,3 @@
-# Universo Cinematográfico
+# Univers Cinematogràfic
 
-Este proyecto presenta mi propio universo cinematográfico de superhéroes, con héroes, villanos, películas y una historia conectada.
+Aquest projecte presenta el meu propi univers cinematogràfic de superherois, amb herois, vilans, pel·lícules i una història connectada.
