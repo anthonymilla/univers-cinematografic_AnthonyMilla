@@ -23,3 +23,11 @@
 * **Poder, habilitat o tecnologia principal:** Habilitats físiques millorades per una herba en forma de cor i vestit tecnològic de vibranium capaç d'absorbir i redistribuir energia cinètica.
 * **Origen:** Príncep i posterior rei de Wakanda, una nació tecnològicament avançada i amagada al cor d'Àfrica que hereta el mantell sagrat del seu pare.
 * **Funció dins de la saga:** Protector de Wakanda i pont clau entre la seva nació secreta i la resta del món en la lluita contra les grans amenaces.
+
+## 5. Aliança Estratègica
+* **Títol:** Aliança tàctica: Iron Man i Spider-Man
+* **Protagonistes:** Tony Stark i Peter Parker
+* **Objectiu:** Coordinar la defensa urbana i protegir el barri de Queens davant de qualsevol amenaça emergent.
+* **Escenari principal:** Nova York i voltants
+* **Resum de l'argument:** Una col·laboració tecnològica i de mentorship on el geni multimilionari guia el jove heroi per afrontar reptes majors.
+* **Relació amb els capítols:** Relacionat amb la expansió de xarxes de protecció ciutadana.

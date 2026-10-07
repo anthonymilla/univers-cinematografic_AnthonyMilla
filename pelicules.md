@@ -23,3 +23,11 @@
 * **Escenari principal:** Europa i Washington D.C.
 * **Resum de l'argument:** Un soldat llegendari de la Segona Guerra Mundial desperta en el segle XXI i ha d'enfrontar-se a una conspiració global que amenaça la llibertat de tot el planeta.
 * **Relació amb els capítols:** Relacionat amb el Capítol 4: Amenaces des del passat.
+
+## 4. Epíleg: La nova era dels herois
+* **Títol:** Epíleg: La nova era dels herois
+* **Protagonistes:** Els herois supervivents de la saga
+* **Antagonista:** Amenaces dimensionals i noves forces incertes
+* **Escenari principal:** Caserna general dels Avengers i Wakanda
+* **Resum de l'argument:** Una reunió secreta i crucial on es planifica la protecció global a llarg termini per assegurar el futur de la Terra davant de pròximes crisis còsmiques.
+* **Relació amb els capítols:** Relacionat amb el tancament de cicle i el futur de l'univers cinematogràfic.
